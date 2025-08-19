@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Jaydip Satani        [![Support via Razorpay](https://img.shields.io/badge/Buy%20Me%20a%20Chai-%E2%98%95-orange?style=for-the-badge)](https://razorpay.me/@jaydipsatani)
+# 👋 Hey there! I'm Renish Pirani       [![Support via Razorpay](https://img.shields.io/badge/Buy%20Me%20a%20Chai-%E2%98%95-orange?style=for-the-badge)]
 
 Welcome to my GitHub profile! I'm an enthusiastic **Web Developer** with a strong focus on **backend development**. I love building scalable, secure, and high-performance web applications.
 
@@ -8,7 +8,7 @@ Here, you’ll find projects showcasing my work with APIs, databases, authentica
 
 ## 💡 About Me
 
-📚 **Studying** B.Tech in CSE @ Nirma University  
+📚 **Studying** B.Tech in CSE @ Marwadi University  
 🌟 **Passionate** about designing robust APIs and scalable backend systems that bring ideas to life  
 🔍 **Always Learning** and exploring new technologies  
 📱 Let's **build something amazing** together!  
@@ -32,7 +32,7 @@ Here, you’ll find projects showcasing my work with APIs, databases, authentica
 JavaScript, TypeScript, C/C++, Java, PHP, Flutter, Python  
 
 **Frameworks/Tools:**  
-Next.js, React.js, Node.js, Git, PHPMyAdmin, MongoDB  
+React.js, Git, PHPMyAdmin, MongoDB  
 
 **Platforms:**  
 DigitalOcean, AWS, GitHub, Vercel, Hostinger  
@@ -44,10 +44,9 @@ RESTful APIs
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Jaydip Satani](https://www.linkedin.com/in/jaydip-satani/)  
-- **Portfolio:** [jaydipsatani.com](https://www.jaydipsatani.com/)  
-- **Twitter:** [@jaydipsatani__](https://x.com/jaydipsatani__)  
-- **Instagram:** [@jaydipsatani__](https://www.instagram.com/jaydipsatani__/)  
+- **LinkedIn:** [Renish Pirani]((https://www.linkedin.com/in/renish-pirani/))  
+- **Twitter:** [@Renishpirani__]((https://x.com/Renish1909))  
+- **Instagram:** [@Renishpirani__](https://www.instagram.com/renish_pirani_09/)
 
 ---
 
