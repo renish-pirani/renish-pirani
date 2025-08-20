@@ -55,9 +55,9 @@ Authentication & Security, Database Management
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Renish Pirani]((https://www.linkedin.com/in/renish-pirani/))  
-- **Twitter:** [@Renishpirani__]((https://x.com/Renish1909))  
-- **Instagram:** [@Renishpirani__](https://www.instagram.com/renish_pirani_09/)
+- **LinkedIn:** [Renish Pirani](https://www.linkedin.com/in/renish-pirani/)  
+- **Twitter (X):** [@Renishpirani__](https://x.com/Renish1909)  
+- **Instagram:** [@Renishpirani__](https://www.instagram.com/renish_pirani_09/)  
 
 ---
 
